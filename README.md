@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @rems404
-- 👀 I’m interested in web development!!
-- 🌱 I’m currently learning HTML, CSS, and JS.
-- 😄 Pronouns: she
+
 - ⚡ Fun fact: Coffee is my best friend!
 
 <!---
